@@ -1,0 +1,35 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+hs_err_pid*
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.DS_Store
+.classpath
+target/
+out/
+exportToHTML/
+.settings/
+package/
+# Node modules
+node_modules/
